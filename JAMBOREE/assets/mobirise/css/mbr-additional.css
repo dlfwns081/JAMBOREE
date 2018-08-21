@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
+
+
+#ext_menu-f .navbar-toggler {
+  color: #000;
+}
+#ext_menu-f .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+}
+#header1-1 .btn {
+  font-size: 22px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#header1-1 P {
+  text-align: center;
+  font-size: 36px;
+}
+#header1-1 H1 {
+  font-size: 60px;
+}
+#slider-3 H2 {
+  text-align: right;
+  color: #000000;
+}
+#slider-3 B {
+  font-size: 48px;
+}
+#content5-6 .mbr-section-title {
+  text-align: left;
+}
+#msg-box5-4 .lead {
+  text-align: center;
+}
+#msg-box4-g .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#msg-box4-g .lead P {
+  text-align: center;
+}
+#content5-e .mbr-section-title {
+  font-size: 20px;
+  text-align: left;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#ext_menu-10 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-10 .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+}
+
+#ext_menu-13 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-13 .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+}
+
+#ext_menu-x .navbar-toggler {
+  color: #000;
+}
+#ext_menu-x .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+}
